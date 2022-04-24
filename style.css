@@ -4,7 +4,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: 1C0C5B;
+    background-color: 053742;
   }
   
   *
@@ -19,14 +19,14 @@ ul {
   
   li a {
     display: block;
-    color: C996CC;
+    color: 39A2DB
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
   li a:hover {
-    background-color: C996CC;
+    background-color: 39A2DB;
     color: black;
   }
   .dropdown {
@@ -38,7 +38,7 @@ overflow: hidden;
 font-size: 16px;  
 border: none;
 outline: none;
-color: C996CC;
+color: 39A2DB;
 padding: 14px 16px;
 background-color: inherit;
 font-family: inherit;
@@ -197,5 +197,5 @@ body {font-family: Arial, Helvetica, sans-serif;}
   margin: 10px;
 }
 body{
-  background-color: FFE3E3;      
+  background-color: DEEDF0;      
 }
