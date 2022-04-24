@@ -4,7 +4,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: 053742;
+    background-color: black;
   }
   
   *
@@ -19,15 +19,15 @@ ul {
   
   li a {
     display: block;
-    color: 39A2DB;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
   li a:hover {
-    background-color: 39A2DB;
-    color: black;
+    background-color: white;
+    color: white;
   }
   .dropdown {
 float: left;
@@ -38,7 +38,7 @@ overflow: hidden;
 font-size: 16px;  
 border: none;
 outline: none;
-color: 39A2DB;
+color: white;
 padding: 14px 16px;
 background-color: inherit;
 font-family: inherit;
@@ -47,7 +47,7 @@ margin: 0;
 .dropdown-content {
 display: none;
 position: absolute;
-background-color: C996CC;
+background-color: black;
 min-width: 160px;
 box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 z-index: 1;
@@ -55,7 +55,7 @@ z-index: 1;
 
 .dropdown-content a {
 float: none;
-color: black;
+color: white;
 padding: 12px 16px;
 text-decoration: none;
 display: block;
@@ -73,7 +73,7 @@ display: block;
 background-color: white;
 color: black;
 }
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;background-color: #f2f2f2;}
             
             /* Full-width input fields */
             input[type=text], input[type=password] {
@@ -197,7 +197,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   margin: 10px;
 }
 body{
-  background-color: DEEDF0;      
+  background-color: #f2f2f2;      
 }
 .heading{
   margin: 10px;
